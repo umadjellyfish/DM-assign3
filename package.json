@@ -1,0 +1,17 @@
+{
+  "name": "towerofhanoi",
+  "version": "1.0.0",
+  "description": "Tower of Hanoi - Discrete Math Assignment",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "recursion"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.7"
+  }
+}
